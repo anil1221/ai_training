@@ -1,0 +1,5 @@
+# Create a database:
+1. Login to psql using command: psql -U username, and then enter password.
+2. In psql console enter this command to create a database, CREATE DATABASE sales_data;
+3. Exit the psql console with \q command 
+4. Connect to database using: psql -U userame -d sales_data, then enter password
