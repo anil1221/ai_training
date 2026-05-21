@@ -1,0 +1,27 @@
+Work From Home Policy:
+Employees are allowed to work from home up to 3 days per week with manager approval.
+
+Leave Policy:
+Employees are entitled to 24 paid leave days annually.
+Unused leaves can be carried forward up to 10 days.
+
+Security Policy:
+Employees must use multi-factor authentication for all company systems.
+Sharing passwords is strictly prohibited.
+
+Travel Policy:
+Business travel must be approved by department heads before booking.
+Economy class should be used for domestic travel.
+
+Data Privacy Policy:
+Customer personal information must not be shared externally.
+All sensitive data should be encrypted.
+
+Code Review Policy:
+Every pull request must be reviewed by at least one senior engineer before merging.
+
+Laptop Usage Policy:
+Company laptops should not be used for personal downloads or unauthorized software installations.
+
+Attendance Policy:
+Employees must mark attendance before 10 AM on working days.
