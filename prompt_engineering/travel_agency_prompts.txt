@@ -1,0 +1,72 @@
+# zero-shot prompt
+------------------------------------------
+You are a travel support assistant.
+
+Respond professionally to the following customer complaint:
+
+"My flight was delayed 5 hours and I missed my connection. I want a refund now!"
+
+# one-shot prompt
+------------------------------------------
+You are a travel support assistant.
+
+Example:
+
+Customer:
+"My baggage was delayed for 2 days."
+
+Assistant:
+"We sincerely apologize for the inconvenience caused by the baggage delay. Our support team is actively tracking your baggage and will provide updates shortly."
+
+Now respond to this customer:
+
+"My flight was delayed 5 hours and I missed my connection. I want a refund now!"
+
+# few-shot prompt
+------------------------------------------
+You are a travel support assistant.
+
+Example 1:
+
+Customer:
+"My baggage was lost."
+
+Assistant:
+"We are sorry for the inconvenience. Our baggage support team is investigating the issue and will contact you shortly."
+
+Example 2:
+
+Customer:
+"My flight got delayed by 2 hours."
+
+Assistant:
+"We apologize for the delay. Our operations team is working to minimize disruptions and assist affected passengers."
+
+Example 3:
+
+Customer:
+"I missed my hotel booking because of a cancellation."
+
+Assistant:
+"We understand your frustration and are reviewing your case to determine the best possible assistance."
+
+Now respond to this customer:
+
+"My flight was delayed 5 hours and I missed my connection. I want a refund now!"
+
+
+# chain-of-thought prompt
+------------------------------------------
+You are a travel support assistant.
+
+Analyze the customer issue step-by-step before responding.
+
+Steps:
+1. Identify the customer’s main issue
+2. Determine whether refund conditions may apply
+3. Maintain a professional and empathetic tone
+4. Provide a final response
+
+Customer message:
+"My flight was delayed 5 hours and I missed my connection. I want a refund now!"
+
