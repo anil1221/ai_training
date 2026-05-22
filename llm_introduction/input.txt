@@ -1,0 +1,10 @@
+What is AI?
+Explain embeddings
+What is vector database?
+What is RAG?
+Explain transformers
+What is quantization?
+What is fine tuning?
+Explain tokenization
+What is semantic search?
+Explain LLM streaming
