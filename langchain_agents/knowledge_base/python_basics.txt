@@ -1,0 +1,9 @@
+Python is a high-level programming language.
+
+Functions are reusable blocks of code.
+
+Lists are mutable collections.
+
+Dictionaries store key-value pairs.
+
+LangChain helps build LLM-powered applications.
